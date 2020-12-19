@@ -1,8 +1,12 @@
 # GREEN_BUILDING
 
 ## This project was submitted for the IICDC-2016 contest
-### Checkout the video [Here !](https://www.youtube.com/watch?v=2Hlg9OIjZZw)
-### Also check [MainSetup.pdf](https://github.com/dokaniasourav/GREEN_BUILDING/blob/master/MainSetup.pdf)
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+
+#### Checkout the YouTube Video [Part 1](https://www.youtube.com/watch?v=2Hlg9OIjZZw)
+#### Also check out our [Final Submission](https://github.com/dokaniasourav/GREEN_BUILDING/blob/master/Final%20Submission.pdf)
+----------------------------------------------------------------------------------
 
 # Setup
 
