@@ -1,6 +1,6 @@
-# GREEN_BUILDING
+# Decentralized AC Controller
 
-## This project was submitted for the IICDC-2016 contest
+## This project was submitted for the IICDC-2016 contest by me, Ayush Agarwal and Chirag Mehta.
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 
